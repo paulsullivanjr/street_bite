@@ -68,7 +68,7 @@ MIX_ENV=test mix test
 
 ### Decision-Making Process
 
-In the design phase of this project, my aim was to achieve simplicity withough comprimins on functionality. I chose Phoenix LiveView for the user interface to leverage its real-time capabilities and maintain a stateful connection with the client. This allowed me to create an interactive user experience without the need for complex client-side JavaScript.
+In the design phase of this project, my aim was to achieve simplicity without compromising on functionality. I chose Phoenix LiveView for the user interface to leverage its real-time capabilities and maintain a stateful connection with the client. This allowed me to create an interactive user experience without the need for complex client-side JavaScript.
 
 I believed it was essential to offer users the ability to search food trucks based on their location and/or food type. This feature provides the fundamental functionality of the application and forms the basis for potential future enhancements.
 
